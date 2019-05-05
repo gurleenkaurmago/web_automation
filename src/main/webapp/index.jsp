@@ -3,14 +3,14 @@
 
 <h1> My First Web Page </h1>
 
-<h2> Gurleen kaur </h2>
+
 <div>
 
 Name : <input type="text" />
 </div>
 
 <h2>
-Test  changes 
+ Gurleen kaur  
 </h2>
 
 <p>
