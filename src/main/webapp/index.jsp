@@ -10,7 +10,7 @@ Name : <input type="text" />
 </div>
 
 <h2>
- Gurleen kaur  
+ Made by: Gurleen kaur  
 </h2>
 
 <p>
